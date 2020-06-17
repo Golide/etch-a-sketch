@@ -4,7 +4,7 @@ const containerWrapper = document.createElement('section');
 containerWrapper.setAttribute('id', 'container-wrapper');
 const wrapperStyle = {
     position : 'absolute',
-    backgroundImage : 'url(https://images.pexels.com/photos/1939485/pexels-photo-1939485.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260)',
+    backgroundImage : 'url(images/background.jpeg)',
     top : '0',
     left : '0',
     right : '0',
